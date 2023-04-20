@@ -1,8 +1,8 @@
-<img align="center" width="100%" height="400" alt="banner" src="https://repository-images.githubusercontent.com/330349275/281486b8-097d-4fdb-a4a5-92fc485f920c" />
+
 <h1 align="center">Hi 👋, I'm Bishal Bhowmik</h1>
 <h3 align="center">A passionate React Js developer from Bangladesh</h3>
 
-<img align="right" width="400" alt="Coding" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="center" width="100%" height="300" alt="Coding" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalbhowmik&label=Profile%20views&color=0e75b6&style=flat" alt="bishalbhowmik" /> </p>
 
