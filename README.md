@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Bishal Bhowmik</h1>
+<h1 align="center">Hi, I'm Bishal Bhowmik</h1>
 <h3 align="center">A passionate React Js developer from Bangladesh</h3>
 
 <img align="center" width="100%" height="300" alt="Coding" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
